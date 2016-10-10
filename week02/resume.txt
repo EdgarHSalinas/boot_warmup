@@ -1,16 +1,16 @@
 
-Edgar H Salinas
+__Edgar H Salinas__
 
 edgar@my.codergv.org
 
-Work Experience
+## Work Experience
 
-AXA Advisors
+__AXA Advisors
 
 The Wornick Company
 
-Education
+##Education
 
-UTPA
+**UTPA**
 MBA 2007
-BS Electrical Engineering 
+BS Electrical Engineering
